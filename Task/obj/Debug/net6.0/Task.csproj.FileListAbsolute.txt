@@ -1,0 +1,15 @@
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/bin/Debug/net6.0/Task
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/bin/Debug/net6.0/Task.deps.json
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/bin/Debug/net6.0/Task.dll
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/bin/Debug/net6.0/Task.pdb
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.dll
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.pdb
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/dima/Desktop/Контрольная/GB_FirstBlock_Test/Task/obj/Debug/net6.0/ref/Task.dll
